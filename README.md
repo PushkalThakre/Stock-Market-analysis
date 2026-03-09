@@ -46,6 +46,6 @@ Stock prices fluctuate significantly over time.
   Integrate real-time market APIs
   Build interactive dashboards
 
-# Author
 
-Data Analysis Portfolio Project
+
+
